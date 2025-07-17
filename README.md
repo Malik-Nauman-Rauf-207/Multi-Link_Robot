@@ -2,6 +2,8 @@
 
 This project simulates and controls a 4-link snake-like robot using MATLAB and Arduino. Developed during the Robophysics Bootcamp, the robot uses a traveling wave gait to achieve snake-like motion under Coulomb friction.
 
+![Snake Robot Setup](Picture1.png)
+
 ## 🧠 Features
 
 - MATLAB simulation of multi-link swimmer with joint kinematics
